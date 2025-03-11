@@ -1,0 +1,31 @@
+.logo{
+    width: 100px;
+}
+.gray-white-bg{
+    background-color: #D9D9D9;
+}
+.gray-white-color{
+    color: #D9D9D9;
+}
+.gray-bg{
+    background-color: #1E1E1E;
+}
+.gray-color{
+    color: #1E1E1E;
+}
+.arimo{
+    font-family: "Arimo", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+.itim-regular{
+    font-family: "Itim", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+.inria-serif-light {
+    font-family: "Inria Serif", serif;
+    font-weight: 500;
+    font-style: normal;
+}
